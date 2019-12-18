@@ -1,4 +1,4 @@
-module github.com/nayyara-samuel/multi-go-mods/common
+module github.com/nayyara-samuel/multi-go-mods/pkg
 
 go 1.12
 

@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/nayyara-samuel/multi-go-mods/common/pkg/http"
+	"github.com/nayyara-samuel/multi-go-mods/pkg/http"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )
